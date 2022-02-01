@@ -5,7 +5,7 @@
 <a href="https://discord.com/users/828329318388203560" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
 <a href="https://open.spotify.com/user/x4on2l4pspdn5xlvllqdna8it" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 <a href="https://www.instagram.com/thelyreax/" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://github.com/ErenSsGg" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://github.com/Lyx571" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 </br><img src="https://komarev.com/ghpvc/?username=Fayikcim&color=dc143c"/>
 </p>
 
@@ -20,5 +20,5 @@
 </br>
 <h3 align="left">GitHub Stats:</h3>
 <p align="left">
-   <img src="https://github-readme-stats.vercel.app/api?username=ErenSsGg&count_private=true&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px" alt="stats" />
+   <img src="https://github-readme-stats.vercel.app/api?username=Lyx571&count_private=true&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px" alt="stats" />
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fayikcim&layout=compact&theme=dark&hide_border=true" />
